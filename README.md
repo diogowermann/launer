@@ -1,2 +1,2 @@
 # launer
-projetos launer
+Projetos referentes à Launer Química.
